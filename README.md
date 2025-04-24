@@ -1,0 +1,2 @@
+# GoFatSquirrel
+squirrel idle clicker
